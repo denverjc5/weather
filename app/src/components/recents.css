@@ -1,0 +1,25 @@
+.recent-body {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+}
+.title-text {
+  padding-left: 15px;
+}
+
+.listContainer {
+  list-style: none;
+}
+
+#outer {
+  position: absolute;
+}
+
+.listText {
+  position: relative;
+  padding: 10px;
+}
+
+.listText:hover {
+  background-color: #DCDBDC;
+}
